@@ -1,0 +1,16 @@
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\adodemo.exe.config
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\adodemo.exe
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\adodemo.pdb
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\obj\Debug\adodemo.csproj.AssemblyReference.cache
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\obj\Debug\adodemo.csproj.CoreCompileInputs.cache
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\obj\Debug\adodemo.exe
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\obj\Debug\adodemo.pdb
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.Permissions.dll
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.Permissions.xml
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\THOGARCHEDU PRASAD\source\repos\adodemo\adodemo\obj\Debug\adodemo.csproj.CopyComplete
