@@ -1,0 +1,14 @@
+﻿@model Day3Mvc.Models.User
+
+
+
+@using (Html.BeginForm("SaveUser", "Home"))
+{
+    <p1>@Html.TextBoxFor(user => user.UserName)</p1>
+
+
+
+    <p1>@Html.PasswordFor(user => user.Password)</p1>
+
+    <input type="submit" value="Add User" />
+}
